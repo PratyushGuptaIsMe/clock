@@ -8,7 +8,7 @@ body {
     justify-content: center;
     align-items: center;
     background:#0d0a0a url('clock-image.png') no-repeat center center fixed;
-    background-size: cover; /* cover for full */
+    background-size: cover;
     font-family: "Orbitron", Arial, Helvetica, sans-serif;
 }
 
